@@ -1,0 +1,5 @@
+This is a test.
+If newly added texts are displayed in the Git remote repo, then the project is working !
+
+This is test 2.
+Yes it is working.

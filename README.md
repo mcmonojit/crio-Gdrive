@@ -14,8 +14,5 @@ For installing in Ubuntu:
 
 For other distributions : https://github.com/inotify-tools/inotify-tools/wiki
 
-# to run the script in the background
-`./watch.sh &`
-
-# to run the script in foreground
+# to run the script
 `./watch.sh`
